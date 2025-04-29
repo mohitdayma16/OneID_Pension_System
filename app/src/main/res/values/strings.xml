@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OneID_Pension_System</string>
+    <string-array name="employment_types">
+        <item>Government Employee</item>
+        <item>Private Employee</item>
+        <item>Self-Employed</item>
+        <item>Unemployed</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
